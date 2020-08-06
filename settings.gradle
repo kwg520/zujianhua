@@ -1,0 +1,7 @@
+include ':annotation_compiler'
+include ':annotation'
+include ':arouter'
+include ':member'
+include ':login'
+include ':app'
+rootProject.name = "zujianhua"
